@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Liquidity Predictor</title>
+</head>
+<body>
+    <h2>Cryptocurrency Liquidity Predictor</h2>
+    <form action="/predict" method="post">
+        <label>Price:</label><input type="text" name="price"><br><br>
+        <label>1h Change (%):</label><input type="text" name="1h"><br><br>
+        <label>24h Change (%):</label><input type="text" name="24h"><br><br>
+        <label>7d Change (%):</label><input type="text" name="7d"><br><br>
+        <label>Market Cap (scaled):</label><input type="text" name="mkt_cap"><br><br>
+        <label>Volatility Index:</label><input type="text" name="volatility"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    <h3>{{ prediction_text }}</h3>
+</body>
+</html>
