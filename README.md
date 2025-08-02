@@ -88,15 +88,16 @@ python app/app.py
 
 ---
 
-## 👨‍💼 Author
-
-**Kalyani Khapale**
- [Data Analytics Enthusiast]
-
----
-
 ## ✨ Future Enhancements
 
 * Integrate social media sentiment
 * Real-time data streaming
 * Try LSTM or Prophet for time-series forecasting
+
+  
+---
+## 👨‍💼 Author
+
+**Kalyani Khapale**
+ [Data Analytics Enthusiast]
+
