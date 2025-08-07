@@ -1,5 +1,7 @@
 # 📊 Cryptocurrency Liquidity Prediction for Market Stability
 
+![Prediction App](https://github.com/Kalyanikhapale/Cryptocurrency-Liquidity-Prediction-for-Market-Stability/blob/main/App.%20image.png)
+
 Predicting liquidity levels in the cryptocurrency market using historical trading data to assist exchanges and investors in maintaining market stability.
 
 ---
